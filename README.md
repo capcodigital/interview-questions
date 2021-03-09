@@ -11,10 +11,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">[PROJECT_TITLE]</h3>
+  <h3 align="center">interview-questions</h3>
 
   <p align="center">
-    [PROJECT_DESCRIPTION]
+    Technical Interview questions for candidates appearing for different job roles within Capco
     <br />
     <a href="https://github.com/capcodigital/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -33,21 +33,12 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#our-expectations">Our Expectations</a>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -55,51 +46,36 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+**CAPCO Digital Engineering Hiring Process**
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+At Capco, transparency and fairness are core values and we want that to be reflected in our everything we do.
+
+Hence we open-sourced our hiring process for a fairer assessment process in which candidates know what is expected and we aim to provide "Questions we may ask you during the technical interview".
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `capcodigital`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
-### Built With
 
-* []()
+## Our expectations
 
-<!-- GETTING STARTED -->
-## Getting Started
+Capco aims to hire the best talent available at any given time. We value your knowledge and experience and we expect you to think independently and be proactive.
 
-To get a local copy up and running follow these simple steps.
+We expect the successful candidate to adopt different techniques and technical implementations.
 
-### Prerequisites
+Additionally, we look for candidates who are professional, reasonable and fun to work with.
 
-This is an example of how to list things you need to use the software and how to install them.
-
-```shell
-# installs the tooling requirements
-pip install -r requirements.txt
-# installs the git hook for pre-commit
-pre-commit install
-```
-
-### Installation
-
-```shell
-# clone the repo
-git clone https://github.com/capcodigital/repo_name.git
-```
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/capcodigital/repo_name/issues) for a list of proposed features (and known issues).
+Please select the Capability 
+(Frontend or 
+[Backend](https://github.com/capcodigital/interview-questions/blob/main/Backend.md/#backend-interview-questions) or 
+Data-Engineering or 
+DevOps or
+Mobile or
+SystemDesign or
+QA-Automation
+) you are applying for, to going through the interview process and key technologies and technical areas to focus on.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -118,9 +94,9 @@ If you would like to contribute to any Capco Digital OSS projects please read:
 * [Contributing Guidelines](https://github.com/capcodigital/.github/blob/master/CONTRIBUTING.md)
 
 <!-- LICENSE -->
-## License
+## Contact
 
-Distributed under the MIT License. See `LICENSE` for more information.
+For any questions please contact uk.recruitment@capco.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
