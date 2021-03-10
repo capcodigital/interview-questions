@@ -48,7 +48,7 @@
 ## About The Project
 **CAPCO Digital Engineering Hiring Process**
 
-At Capco, transparency and fairness are core values and we want that to be reflected in our everything we do.
+At Capco, **transparency** and **fairness** are core values and we want that to be reflected in everything we do.
 
 Hence we open-sourced our hiring process for a fairer assessment process in which candidates know what is expected and we aim to provide "Questions we may ask you during the technical interview".
 
@@ -59,11 +59,11 @@ Here's a blank template to get started:
 
 ## Our expectations
 
-Capco aims to hire the best talent available at any given time. We value your knowledge and experience and we expect you to think independently and be proactive.
+Capco aims to hire the best talent available at any given time. We value your **knowledge** and **experience** and we expect you to **think independently** and **be proactive**.
 
 We expect the successful candidate to adopt different techniques and technical implementations.
 
-Additionally, we look for candidates who are professional, reasonable and fun to work with.
+Additionally, we look for candidates who are **professional**, **reasonable** and **fun to work with**.
 
 ## Usage
 
@@ -73,7 +73,6 @@ Please select the Capability
 Data-Engineering or 
 DevOps or
 Mobile or
-SystemDesign or
 QA-Automation
 ) you are applying for, to going through the interview process and key technologies and technical areas to focus on.
 
