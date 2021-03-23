@@ -64,14 +64,14 @@ Additionally, we look for candidates who are **professional**, **reasonable** an
 ## Usage
 
 Please select the Capability 
-([Frontend] (https://github.com/capcodigital/interview-questions/blob/main/frontend.md#-frontend-interview-questions) or 
-[Backend] (https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions) or 
-[Data-Engineering] (https://github.com/capcodigital/interview-questions/blob/main/data-engineering.md#-data-engineering-interview-questions) or 
-[DevOps] (https://github.com/capcodigital/interview-questions/blob/main/devops.md#-devops-interview-questions) or
-[iOS] (https://github.com/capcodigital/interview-questions/blob/main/iOS.md#-ios-interview-questions) or
-[Android] (https://github.com/capcodigital/interview-questions/blob/main/android.md#-android-interview-questions) or
-[QA-Automation] (https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
-) you are applying for, to going through the interview process and key technologies and technical areas to focus on.
+([Frontend](https://github.com/capcodigital/interview-questions/blob/main/frontend.md#-frontend-interview-questions) or 
+[Backend](https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions) or 
+[Data-Engineering](https://github.com/capcodigital/interview-questions/blob/main/data-engineering.md#-data-engineering-interview-questions) or 
+[DevOps](https://github.com/capcodigital/interview-questions/blob/main/devops.md#-devops-interview-questions) or
+[iOS](https://github.com/capcodigital/interview-questions/blob/main/iOS.md#-ios-interview-questions) or
+[Android](https://github.com/capcodigital/interview-questions/blob/main/android.md#-android-interview-questions) or
+[QA-Automation](https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
+) you are applying for, to going through the interview process and key technologies & technical areas to focus on.
 
 <!-- CONTRIBUTING -->
 ## Contributing
