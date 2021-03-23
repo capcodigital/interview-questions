@@ -52,10 +52,6 @@ At Capco, **transparency** and **fairness** are core values and we want that to 
 
 Hence we open-sourced our hiring process for a fairer assessment process in which candidates know what is expected and we aim to provide "Questions we may ask you during the technical interview".
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`capcodigital`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
 
 ## Our expectations
 
@@ -68,12 +64,13 @@ Additionally, we look for candidates who are **professional**, **reasonable** an
 ## Usage
 
 Please select the Capability 
-(Frontend or 
-[Backend](https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions) or 
-Data-Engineering or 
-DevOps or
-Mobile or
-QA-Automation
+([Frontend] (https://github.com/capcodigital/interview-questions/blob/main/frontend.md#-frontend-interview-questions) or 
+[Backend] (https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions) or 
+[Data-Engineering] (https://github.com/capcodigital/interview-questions/blob/main/data-engineering.md#-data-engineering-interview-questions) or 
+[DevOps] (https://github.com/capcodigital/interview-questions/blob/main/devops.md#-devops-interview-questions) or
+[iOS] (https://github.com/capcodigital/interview-questions/blob/main/iOS.md#-ios-interview-questions) or
+[Android] (https://github.com/capcodigital/interview-questions/blob/main/android.md#-android-interview-questions) or
+[QA-Automation] (https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
 ) you are applying for, to going through the interview process and key technologies and technical areas to focus on.
 
 <!-- CONTRIBUTING -->
