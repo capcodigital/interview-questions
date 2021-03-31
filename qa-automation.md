@@ -30,11 +30,7 @@ Below are the main areas QA & Test Automation team will focus our assessment of 
   * Page object model and Page factory
   * StaleElement exception
   * Selenium 4 features
-  
-
-  <kbd>Level: AO: Understanding of concepts</kbd>
-  
-  <kbd>Level: CO+</kbd>
+ 
 
 * Cocumber
   * Scenario outline
@@ -42,13 +38,10 @@ Below are the main areas QA & Test Automation team will focus our assessment of 
   * Feature file and key workds
   * Glue
   
-  <kbd>Level: CO+</kbd>
   
 * TestNG
   * Annotations
   * Parameterization
-  
-  <kbd>Level: CO+</kbd>
   
 
 * Core Java
@@ -57,13 +50,11 @@ Below are the main areas QA & Test Automation team will focus our assessment of 
   * Abstract class vs Interface
   * Overloading & Overriding
   
-  <kbd>Level: CO+</kbd>
 
 * SQL
   * Basic queries
   * Joins, Clauses
 
-  <kbd>Level: CO+</kbd>
   
 * Postman or API Testing
   * Status codes
@@ -71,7 +62,6 @@ Below are the main areas QA & Test Automation team will focus our assessment of 
   * Validate in Response
   * Authorization types (No Auth, Basic Auth, OAuth etc.)
   
-  <kbd>Level: CO+</kbd>
   
 
     
