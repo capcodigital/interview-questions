@@ -41,7 +41,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
+ </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
@@ -63,21 +63,23 @@ Additionally, we look for candidates who are **professional**, **reasonable** an
 
 ## Usage
 
-Please select the Capability 
-([Frontend](https://github.com/capcodigital/interview-questions/blob/main/frontend.md#-frontend-interview-questions) or 
-[Backend](https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions) or 
-[Data-Engineering](https://github.com/capcodigital/interview-questions/blob/main/data-engineering.md#-data-engineering-interview-questions) or 
-[DevOps](https://github.com/capcodigital/interview-questions/blob/main/devops.md#-devops-interview-questions) or
-[iOS](https://github.com/capcodigital/interview-questions/blob/main/iOS.md#-ios-interview-questions) or
-[Android](https://github.com/capcodigital/interview-questions/blob/main/android.md#-android-interview-questions) or
-[QA-Automation](https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
-) you are applying for, to going through the interview process and key technologies & technical areas to focus on.
+Please select one of the technologies you're applying for:  
+* [Frontend](https://github.com/capcodigital/interview-questions/blob/main/frontend.md#-frontend-interview-questions) 
+* [Backend](https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions) 
+* [Data-Engineering](https://github.com/capcodigital/interview-questions/blob/main/data-engineering.md#-data-engineering-interview-questions) 
+* [DevOps](https://github.com/capcodigital/interview-questions/blob/main/devops.md#-devops-interview-questions)
+* [iOS](https://github.com/capcodigital/interview-questions/blob/main/iOS.md#-ios-interview-questions)
+* [Android](https://github.com/capcodigital/interview-questions/blob/main/android.md#-android-interview-questions)
+* [QA-Automation](https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
+ 
+ Given that you sometimes have limited time to prepare for a technical interview, we recommend reviewing the given topics to understand the areas to focus while preparing for the interview. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+In order to make contributions, please follow the steps
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
