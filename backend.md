@@ -16,11 +16,13 @@ Please keep in mind that this document is in a continuous state of revision, wit
 ## Questions
 Below are the main areas a Backend team will focus our assessment of candidates on:
 
-* REST & APIs
-  * RESTful API?
-  * API alternatives to REST
+<kbd>Assessment is done as per the technology/skill set applied for </kbd>
 
-  <kbd>Level: CO+</kbd>
+<kbd>Knowledge, skill level is expected based on the Job level</kbd>
+
+* REST & APIs
+  * RESTful API
+  * API alternatives to REST
 
 * Ways of working, TDD and Development Standards
   * Ways of working
@@ -28,7 +30,6 @@ Below are the main areas a Backend team will focus our assessment of candidates 
   * Performance and debugging
   * Backend technologies / languages
   
-  <kbd>Level: CO+</kbd>
   
 * Java 
   * JPA & Hibernate
@@ -36,14 +37,12 @@ Below are the main areas a Backend team will focus our assessment of candidates 
   * Data structures 
   * Sync & async web methods
   
-  <kbd>Level: CO+</kbd>
 
 * Spring Boot
   * Annotations
   * Actuator
   * Spring boot application using Maven
-  
-  <kbd>Level: CO+</kbd>
+ 
 
 * Microservices questions
   * Architecture
@@ -51,28 +50,19 @@ Below are the main areas a Backend team will focus our assessment of candidates 
   * Dockers/Kubernetes flow
   * Monolith to microservices conversion
   * Monitoring and Logging
-
-  <kbd>Level: CO+</kbd>
   
 * Event Driven Systems
-  * Scalability?
-  * Event Sourcing?
+  * Scalability
+  * Event Sourcing
+  * What is CQRS (Command Query Responsibility Segregation) 
   
-  <kbd>Level: SC+</kbd>
-  
-  * What is CQRS (Command Query Responsibility Segregation)?  
-  
-  <kbd>Level: PC</kbd>
   
 * Security & Authentication
   * JWT
   * oAuth
   
-  <kbd>Level: SC+</kbd>
  
 * Security
   * Secret Management
   * Cryptographic signing
   * Encryption
-  
-  <kbd>Level: SC+</kbd>
