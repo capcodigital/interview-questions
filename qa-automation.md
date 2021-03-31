@@ -32,10 +32,10 @@ Below are the main areas QA & Test Automation team will focus our assessment of 
   * Selenium 4 features
  
 
-* Cocumber
+* Cucumber
   * Scenario outline
   * Background
-  * Feature file and key workds
+  * Feature file and key words
   * Glue
   
   
