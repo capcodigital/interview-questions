@@ -16,6 +16,10 @@ Please keep in mind that this document is in a continuous state of revision, wit
 ## Questions
 Below are the main areas Data Engineering team will focus our assessment of candidates on:
 
+<kbd>Assessment is done as per the technology/skill set applied for </kbd>
+
+<kbd>Knowledge, skill level is expected based on the Job level</kbd>
+
 * Database & Data Warehousing
   * Database Key concepts
   * Data Modelling & Schemas
@@ -23,16 +27,11 @@ Below are the main areas Data Engineering team will focus our assessment of cand
   * Datalake and Data Warehouse
   * Data quality & Reliability
 
-  <kbd>Level: AO: Understanding of concepts</kbd>
-  
-  <kbd>Level: CO+</kbd>
-
 * ETL
   * Basic transformations
   * Self-managed and SaaS ETL tools
   * ETL/ELT
   
-  <kbd>Level: CO+</kbd>
   
 * Big Data
   * Hadoop (HDFS, Mapreduce)
@@ -40,38 +39,32 @@ Below are the main areas Data Engineering team will focus our assessment of cand
   * Apache Spark
   * File formats (Parquet, Avro, JSON, ORC) 
   
-  <kbd>Level: CO+</kbd>
 
 * Event driven systems
   * Apache Kafka
   * Spark streaming
   
-  <kbd>Level: SC+</kbd>
 
 * Graph Databases
   * Nodes and Edges
   * Popular graph DBs
-
-  <kbd>Level: SC+</kbd>
+  
   
 * Serverless functions
   * Design consideartions
   * Examples
-  
-  <kbd>Level: SC+</kbd>
+ 
   
   
 * Cloud offerings
   * Key managed services
-    
-   <kbd>Level: CO+</kbd>
+   
    
  * Analytics Tooling
   * PowerBI
   * Looker
   * Redshift
   
-    <kbd>Level: CO+</kbd>
   
  * Programming Languages & Machine Learning
     * Python
@@ -80,20 +73,16 @@ Below are the main areas Data Engineering team will focus our assessment of cand
       * Matplotlib
       * Tensorflow
 
-    <kbd>Level: CO: Atleast 2</kbd>
-    <kbd>Level: SC+</kbd>
     
     * Scala
       * Types of variables
       * Streams
       
-    <kbd>Level: CO+</kbd>
     
    * Types of Machine Learning
    * Test Automation and DevOps
       * CI Pipeline in engineering context
       
-    <kbd>Level: CO+</kbd>
     
   * Security
       * Encryption
@@ -101,11 +90,9 @@ Below are the main areas Data Engineering team will focus our assessment of cand
       * Secrets
       * GDPR or PAI Data
       
-      <kbd>Level: CO+</kbd>
     
    * Observability
       * Monitoring Production Data pipeline 
      
-      <kbd>Level: CO+</kbd>
       
     
