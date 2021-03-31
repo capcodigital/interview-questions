@@ -59,7 +59,7 @@ Below are the main areas a Backend team will focus our assessment of candidates 
   
 * Security & Authentication
   * JWT
-  * oAuth
+  * OAuth
   
  
 * Security
