@@ -16,7 +16,9 @@ Please keep in mind that this document is in a continuous state of revision, wit
 ## Questions
 Below are the main areas Mobile (iOS) team will focus our assessment of candidates on:
  
- <kbd>Knowledge, skill level is expected based on the Job level</kbd>
+<kbd>Assessment is done as per the technology/skill set applied for </kbd>
+
+<kbd>Knowledge, skill level is expected based on the Job level</kbd>
 
 * Security
   * Security breaches
