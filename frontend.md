@@ -41,7 +41,7 @@ Below are the main areas Frontend team will focus our assessment of candidates o
 * React Context
 * React hooks
 * State management libraries
-* Staeless functional components
+* Stateless functional components
 * Controlled and Uncontrolled components
 
 
@@ -55,7 +55,7 @@ Below are the main areas Frontend team will focus our assessment of candidates o
 * Dynamic components
 * Directives
 * Dependecies in Angular application
-* Service worker and it's design goals
+* Service worker and its design goals
 
 
 ### SVELTE Questions
