@@ -16,13 +16,16 @@ Please keep in mind that this document is in a continuous state of revision, wit
 ## Questions
 Below are the main areas a DevOps team will focus our assessment of candidates on:
 
+<kbd>Assessment is done as per the technology/skill set applied for </kbd>
+
+<kbd>Knowledge, skill level is expected based on the Job level</kbd>
+
 * CI/CD Process
   * Continuous Deployment
   * Continuous Delivery
   * Canary Release
   * Microservices patterns
 
-  <kbd>Level: CO+</kbd>
 
 * Git Branching
   * Automate versioning
@@ -30,7 +33,6 @@ Below are the main areas a DevOps team will focus our assessment of candidates o
   * Performance and debugging
   * Backend technologies / languages
   
-  <kbd>Level: CO+</kbd>
   
 * Infrastructure  
   * IaaS
@@ -39,29 +41,24 @@ Below are the main areas a DevOps team will focus our assessment of candidates o
   * Auto-scaling
   * Secret and Config management
   
-  <kbd>Level: CO+</kbd>
 
 * Technology Domains
   * Streaming platform
   * Messaging and even-driven systems
   
-  <kbd>Level: SC+</kbd>
 
 * Test Orchestration & Test Automation
   * Automation Framework
   * Automation Techniques
   * Orchestration Techniques
 
-  <kbd>Level: CO+</kbd>
   
 * Observability
   * DevOps Metrics
   * Logging & monitoring
   * Autohealing
   * Chaos Engineering
-  
-  <kbd>Level: SC+</kbd>
-  
+
   
 * Security
   * IAM
@@ -72,10 +69,8 @@ Below are the main areas a DevOps team will focus our assessment of candidates o
     * Gateways
     * OAuth 
     
-   <kbd>Level: CO+</kbd>
    
  * Vulnerability scan
  * Threat modelling 
 
-    <kbd>Level: CO+</kbd>
  
