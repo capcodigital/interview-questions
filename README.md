@@ -1,7 +1,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]] [[![GitHub issues](https://img.shields.io/github/issues/capcodigital/interview-questions?style=for-the-badge)](https://github.com/capcodigital/interview-questions/issues)]
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
@@ -16,14 +16,14 @@
   <p align="center">
     Technical Interview questions for candidates appearing for different job roles within Capco
     <br />
-    <a href="https://github.com/capcodigital/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/capcodigital/interview-questions"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/capcodigital/repo_name">View Demo</a>
+    <a href="https://github.com/capcodigital/interview-questions">View Demo</a>
     ·
-    <a href="https://github.com/capcodigital/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/capcodigital/interview-questions/issues">Report Bug</a>
     ·
-    <a href="https://github.com/capcodigital/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/capcodigital/interview-questions/issues">Request Feature</a>
   </p>
 </p>
 
