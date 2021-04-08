@@ -1,8 +1,8 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]] [[![GitHub issues](https://img.shields.io/github/issues/capcodigital/interview-questions?style=for-the-badge)](https://github.com/capcodigital/interview-questions/issues)]
-[![MIT License][license-shield]][license-url]
+[![Contributors](https://img.shields.io/github/contributors/capcodigital/interview-questions?style=for-the-badge)](https://github.com/capcodigital/interview-questions/community_contributors)
+[![GitHub forks](https://img.shields.io/github/forks/capcodigital/interview-questions?style=for-the-badge)](https://github.com/capcodigital/interview-questions/network)
+[![GitHub stars](https://img.shields.io/github/stars/capcodigital/interview-questions?style=for-the-badge)](https://github.com/capcodigital/interview-questions/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/capcodigital/interview-questions?style=for-the-badge)](https://github.com/capcodigital/interview-questions/issues)
+[![GitHub license](https://img.shields.io/github/license/capcodigital/interview-questions?style=for-the-badge)](https://github.com/capcodigital/interview-questions)
 
 <!-- PROJECT LOGO -->
 <br />
