@@ -11,16 +11,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">interview-questions</h3>
+  <h3 align="center">Interview Questions</h3>
 
   <p align="center">
     Technical Interview questions for candidates appearing for different job roles within Capco
     <br />
-    <a href="https://github.com/capcodigital/interview-questions"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/capcodigital/interview-questions">View Demo</a>
-    ·
     <a href="https://github.com/capcodigital/interview-questions/issues">Report Bug</a>
     ·
     <a href="https://github.com/capcodigital/interview-questions/issues">Request Feature</a>
@@ -46,16 +42,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-**CAPCO Digital Engineering Hiring Process**
 
-At Capco, **transparency** and **fairness** are core values and we want that to be reflected in everything we do.
+At Capco, **transparency** and **fairness** are core values and we want that to be reflected in everything we do, including our interview process.
 
-Hence we open-sourced our hiring process for a fairer assessment process in which candidates know what is expected and we aim to provide "Questions we may ask you during the technical interview".
-
+Hence we've open-sourced our hiring process for a fairer assessment process in which candidates know what is expected by providing "Questions we may ask you during the technical interview".
 
 ## Our expectations
 
-Capco aims to hire the best talent available at any given time. We value your **knowledge** and **experience** and we expect you to **think independently** and **be proactive**.
+Capco aims to hire the best talent available at any given time.
+
+We value your **knowledge** and **experience** and we expect you to **think independently** and **be proactive**.
 
 We expect the successful candidate to adopt different techniques and technical implementations.
 
@@ -63,16 +59,17 @@ Additionally, we look for candidates who are **professional**, **reasonable** an
 
 ## Usage
 
-Please select one of the technologies you're applying for:  
-* [Frontend](https://github.com/capcodigital/interview-questions/blob/main/frontend.md#-frontend-interview-questions) 
-* [Backend](https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions) 
-* [Data-Engineering](https://github.com/capcodigital/interview-questions/blob/main/data-engineering.md#-data-engineering-interview-questions) 
+Please select one of the technologies you're applying for:
+
+* [Frontend](https://github.com/capcodigital/interview-questions/blob/main/frontend.md#-frontend-interview-questions)
+* [Backend](https://github.com/capcodigital/interview-questions/blob/main/backend.md#-backend-interview-questions)
+* [Data-Engineering](https://github.com/capcodigital/interview-questions/blob/main/data-engineering.md#-data-engineering-interview-questions)
 * [DevOps](https://github.com/capcodigital/interview-questions/blob/main/devops.md#-devops-interview-questions)
 * [iOS](https://github.com/capcodigital/interview-questions/blob/main/iOS.md#-ios-interview-questions)
 * [Android](https://github.com/capcodigital/interview-questions/blob/main/android.md#-android-interview-questions)
-* [QA-Automation](https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
- 
- Given that you sometimes have limited time to prepare for a technical interview, we recommend reviewing the given topics to understand the areas to focus while preparing for the interview. 
+* [QA Automation](https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
+
+Given that you sometimes have limited time to prepare for a technical interview, we recommend reviewing the given topics to understand the areas to focus while preparing for the interview.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -80,6 +77,7 @@ Please select one of the technologies you're applying for:
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 In order to make contributions, please follow the steps
+
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
