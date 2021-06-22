@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center"> Frontend Interview Questions </h3>
+<h3 align="center"> Technical Delivery Interview Questions </h3>
 
 As described in the Digital Engineering recruitment process [main page](https://github.com/capcodigital/interview-questions/blob/main/README.md#interview-questions), the technical interviews involve in assessing candidates against a number of technical questions which we have decided to open-source.
 
