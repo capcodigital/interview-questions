@@ -35,7 +35,6 @@ Below are the main areas Technical Delivery team will focus our assessment of ca
 https://github.com/capcodigital/interview-questions/blob/main/backend.md and https://github.com/capcodigital/interview-questions/blob/main/frontend.md
 * Leadership questions (coaching, mentoring, conflict resolution, communication etc.)
 * Delivery questions (Agile, estimation, team structure etc.)
-* System design exercise for Principal Consultant level
 
 ### Technical Delivery Manager
 
