@@ -29,13 +29,6 @@ Below are the main areas Technical Delivery team will focus our assessment of ca
   * Software craftsmanship
   * Theory
 
-### Technical Lead
-
-* Backend or Frontend technical interview similar to 
-https://github.com/capcodigital/interview-questions/blob/main/backend.md and https://github.com/capcodigital/interview-questions/blob/main/frontend.md
-* Leadership questions (coaching, mentoring, conflict resolution, communication etc.)
-* Delivery questions (Agile, estimation, team structure etc.)
-
 ### Technical Delivery Manager
 
 * Project retrospective section (product/project requirements, planning, and general business understanding etc.)
