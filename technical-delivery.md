@@ -19,15 +19,16 @@ Below are the main areas Technical Delivery team will focus our assessment of ca
 
 ### Technical Analyst
 
-* Coding test in Java or Python
+* Coding test in Java, Python or Javascript
 * Analytical test
 * General technical questions about areas like 
-  * System design
   * Software architecture/ OOP
-  * Databases
-  * Data structures
+  * Agile
+  * Rest APIs
   * Software craftsmanship
-  * Theory
+  * Microservices
+  * Git
+  * Testing
 
 ### Technical Delivery Manager
 
