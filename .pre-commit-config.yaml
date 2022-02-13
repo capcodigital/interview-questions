@@ -1,14 +1,14 @@
 repos:
 
 - repo: https://github.com/yelp/detect-secrets.git
-  rev: v0.13.1
+  rev: v1.1.0
   hooks:
   -   id: detect-secrets
       name: detect secrets
       args: ['--baseline', '.secrets.baseline']
 
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v2.4.0
+  rev: v4.1.0
   hooks:
     - id: trailing-whitespace
       name: trailing whitespace

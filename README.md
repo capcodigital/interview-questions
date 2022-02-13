@@ -8,11 +8,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/capcodigital/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/capcodigital/.github/master/images/capco.jpeg" alt="Logo" height="160px">
   </a>
-
   <h3 align="center">Interview Questions</h3>
-
   <p align="center">
     Technical Interview questions for candidates appearing for different job roles within Capco
     <br />
